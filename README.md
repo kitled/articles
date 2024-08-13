@@ -41,3 +41,4 @@ Author link, if any, points to a git profile (or any primary tech space, like Hu
 
 [Benjamin Clavié]: https://github.com/bclavie
 [Omar Khattab]: https://github.com/okhat
+[Matei Zaharia]: https://github.com/mateiz
