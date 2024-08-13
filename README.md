@@ -38,4 +38,4 @@ Author link, if any, points to a git profile (or any primary tech space, like Hu
 <!-- Authors -->
 
 [Benjamin Clavié]: https://github.com/bclavie
-[Omar Khattab]: https://omarkhattab.com/
+[Omar Khattab]: https://github.com/okhat
