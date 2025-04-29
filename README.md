@@ -19,7 +19,10 @@ Author link, if any, points to a git profile (or any primary tech space, like Hu
 | [2407.13885] | 2024-07-18 | **Attention in SRAM on Tenstorrent Grayskull** | Performance vs GPUs | When implementations of the Transformer's self-attention layer utilize SRAM instead of DRAM, they can achieve significant speedups. The Tenstorrent Grayskull architecture provides a large SRAM, distributed across a grid of cores. This work presents a fused kernel for Grayskull, that exclusively utilizes its large SRAM by combining matrix multiplication, attention score scaling and Softmax operations. Additionally, a dedicated Softmax kernel utilizing the SRAM and a CPU implementation serving as a baseline are presented. The Softmax operation consumes most of the runtime in the computation of attention weights from queries and keys on Grayskull. The speedup of the dedicated Softmax kernel compared to the CPU implementation is up to 10×, and the Softmax implementation inside the fused kernel is approximately 1.8× faster than the dedicated Softmax kernel. The time and memory complexity of all implementations is quadratic in sequence length. Currently, the Grayskull e150 is approximately 30× cheaper for the general public than an Nvidia H100 PCIe (a state-of-the-art GPU) and offers approximately 1.5× more SRAM. | **Moritz Thüning** 
 |
 
-
+<details>
+  <summary>Epcot Center</summary>
+  <p>Epcot is a theme park at Walt Disney World Resort featuring exciting attractions, international pavilions, award-winning fireworks and seasonal special events.</p>
+</details>
 
 
 
